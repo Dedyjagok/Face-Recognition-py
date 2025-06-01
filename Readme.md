@@ -23,7 +23,7 @@ This project implements a real-time face recognition system using OpenCV and PyT
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/DedyJagok/Face-Recognition-py.git](https://github.com/Dedyjagok/Face-Recognition-py.git)
+    git clone (https://github.com/Dedyjagok/Face-Recognition-py.git)
     cd Face-Recognition
     ```
 2.  Install the required packages:
