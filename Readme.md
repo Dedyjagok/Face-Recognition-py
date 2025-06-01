@@ -28,6 +28,10 @@ This project implements a real-time face recognition system using OpenCV and PyT
     ```
 2.  Install the required packages:
     ```bash
+    # Option 1: Install using requirements.txt (recommended)
+    pip install -r requirements.txt
+    
+    # Option 2: Install packages individually
     pip install opencv-python torch torchvision facenet-pytorch numpy pillow
     ```
 3.  Make sure you have a working webcam connected to your computer.
