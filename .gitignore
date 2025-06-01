@@ -1,0 +1,37 @@
+ 
+# Personal data - face embeddings and database
+face_embeddings.pkl
+*.pkl
+
+# Face images directories - contain personal data
+images/
+processed_images/
+references_faces/
+
+# Model files
+face_model.xml
+face_recognition_model.pkl
+*.xml
+*.pb
+*.t7
+*.pbtxt
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.pyc
+
+# OS specific files
+.DS_Store
+Thumbs.db

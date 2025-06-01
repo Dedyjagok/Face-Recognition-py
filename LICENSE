@@ -1,0 +1,32 @@
+Copyright (c) 2023 Dedy
+All rights reserved.
+
+This software and associated documentation files (the "Software") may not be used, copied, 
+modified, merged, published, distributed, sublicensed, and/or sold without the express
+written permission of the copyright holder.
+
+USAGE RESTRICTIONS:
+1. This software is provided for educational and personal use only.
+2. Commercial use is strictly prohibited without explicit written permission.
+3. Redistribution in any form is prohibited.
+4. Modification and derivative works are prohibited.
+5. The software may not be included in other software packages or distributions.
+
+THIRD-PARTY ACKNOWLEDGEMENTS:
+This software uses the following open source libraries, which are subject to their respective licenses:
+- OpenCV (BSD 3-Clause License)
+- PyTorch (BSD-style license)
+- facenet-pytorch (MIT License)
+- NumPy (BSD 3-Clause License)
+- Pillow (HPND License)
+
+The licenses for these libraries can be found at their respective websites or repositories.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+For licensing inquiries, please contact: [your contact email]
