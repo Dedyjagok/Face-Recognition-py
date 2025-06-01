@@ -1,5 +1,5 @@
 import sys
-sys.path.append("D:\\PythonPackages")
+# sys.path.append("D:\\PythonPackages")
 
 import cv2
 import os
