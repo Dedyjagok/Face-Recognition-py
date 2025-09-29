@@ -7,6 +7,7 @@ face_embeddings.pkl
 images/
 processed_images/
 references_faces/
+reference_faces/
 
 # Model files
 face_model.xml
